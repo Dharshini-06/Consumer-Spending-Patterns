@@ -79,6 +79,10 @@ streamlit run dashboard.py
 - Outlier identification
 - Business intelligence reports
 
+## Project Demo 
+
+https://github.com/user-attachments/assets/3b65ad45-cf0d-4a45-99cd-ead6d3e55053
+
 ## Use Cases
 
 - Retail and e-commerce analytics
