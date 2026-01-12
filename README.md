@@ -90,7 +90,3 @@ streamlit run dashboard.py
 ## Author
 
 Dharshini G | BTECH Information Technology
-
-## Acknowledgment
-
-This project is developed for educational and analytical purposes.
